@@ -8,3 +8,6 @@ This is the description to deploy laravel and react to cloud server with sftp
 update the urls
 
 # 3. update the storage access authority
+
+# 4. repair db
+ln -s /var/www/phpmyadmin/ <br> /var/www/html/phpvideoadmin
